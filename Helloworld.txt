@@ -1,9 +1,10 @@
 ///hello this is my first git example !!!!!
 
 class HelloGit{
+
  	public static void main()
  	{
-  		System.out.println("Welcome to Git");
+  		System.out.println("Java Application to print...Welcome to Git");
 	 }
 
 }
