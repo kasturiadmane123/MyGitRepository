@@ -7,7 +7,7 @@ class HelloGit{
 	}
  	public static void main()
  	{
-
+		Mymethod();
   		System.out.println("This will print...Welcome to Git***....!!!");
 
 	 }
