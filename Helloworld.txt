@@ -2,6 +2,9 @@
 
 class HelloGit{
 
+	void Mymethod(){
+		sysout("This is my method");
+	}
  	public static void main()
  	{
 
